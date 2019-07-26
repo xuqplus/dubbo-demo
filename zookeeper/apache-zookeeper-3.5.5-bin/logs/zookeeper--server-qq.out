@@ -1,0 +1,87 @@
+2019-07-26 16:26:41,581 [myid:] - INFO  [main:QuorumPeerConfig@133] - Reading configuration from: D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\conf\zoo.cfg
+2019-07-26 16:26:41,583 [myid:] - WARN  [main:VerifyingFileFactory@59] - ..\dataDir is relative. Prepend .\ to indicate that you're sure!
+2019-07-26 16:26:41,584 [myid:] - INFO  [main:QuorumPeerConfig@385] - clientPortAddress is 0.0.0.0/0.0.0.0:2181
+2019-07-26 16:26:41,584 [myid:] - INFO  [main:QuorumPeerConfig@389] - secureClientPort is not set
+2019-07-26 16:26:41,585 [myid:] - INFO  [main:DatadirCleanupManager@78] - autopurge.snapRetainCount set to 3
+2019-07-26 16:26:41,585 [myid:] - INFO  [main:DatadirCleanupManager@79] - autopurge.purgeInterval set to 0
+2019-07-26 16:26:41,587 [myid:] - INFO  [main:DatadirCleanupManager@101] - Purge task is not scheduled.
+2019-07-26 16:26:41,587 [myid:] - WARN  [main:QuorumPeerMain@125] - Either no config or no quorum defined in config, running  in standalone mode
+2019-07-26 16:26:41,588 [myid:] - INFO  [main:ManagedUtil@46] - Log4j found with jmx enabled.
+2019-07-26 16:26:41,594 [myid:] - INFO  [main:QuorumPeerConfig@133] - Reading configuration from: D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\conf\zoo.cfg
+2019-07-26 16:26:41,594 [myid:] - WARN  [main:VerifyingFileFactory@59] - ..\dataDir is relative. Prepend .\ to indicate that you're sure!
+2019-07-26 16:26:41,594 [myid:] - INFO  [main:QuorumPeerConfig@385] - clientPortAddress is 0.0.0.0/0.0.0.0:2181
+2019-07-26 16:26:41,594 [myid:] - INFO  [main:QuorumPeerConfig@389] - secureClientPort is not set
+2019-07-26 16:26:41,594 [myid:] - INFO  [main:ZooKeeperServerMain@117] - Starting server
+2019-07-26 16:26:41,603 [myid:] - INFO  [main:Environment@109] - Server environment:zookeeper.version=3.5.5-390fe37ea45dee01bf87dc1c042b5e3dcce88653, built on 05/03/2019 12:07 GMT
+2019-07-26 16:26:41,603 [myid:] - INFO  [main:Environment@109] - Server environment:host.name=qq
+2019-07-26 16:26:41,604 [myid:] - INFO  [main:Environment@109] - Server environment:java.version=12
+2019-07-26 16:26:41,604 [myid:] - INFO  [main:Environment@109] - Server environment:java.vendor=Oracle Corporation
+2019-07-26 16:26:41,604 [myid:] - INFO  [main:Environment@109] - Server environment:java.home=C:\Program Files\Java\jdk-12
+2019-07-26 16:26:41,604 [myid:] - INFO  [main:Environment@109] - Server environment:java.class.path=D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\zookeeper-server\target\classes;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\build\classes;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\zookeeper-server\target\lib\*.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\build\lib\*.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\zookeeper-jute-3.5.5.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\zookeeper-3.5.5.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\slf4j-log4j12-1.7.25.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\slf4j-api-1.7.25.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\netty-all-4.1.29.Final.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\log4j-1.2.17.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\json-simple-1.1.1.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\jline-2.11.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\jetty-util-9.4.17.v20190418.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\jetty-servlet-9.4.17.v20190418.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\jetty-server-9.4.17.v20190418.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\jetty-security-9.4.17.v20190418.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\jetty-io-9.4.17.v20190418.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\jetty-http-9.4.17.v20190418.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\javax.servlet-api-3.1.0.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\jackson-databind-2.9.8.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\jackson-core-2.9.8.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\jackson-annotations-2.9.0.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\commons-cli-1.2.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\lib\audience-annotations-0.5.0.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\zookeeper-*.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\zookeeper-server\src\main\resources\lib\*.jar;D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\conf;.
+2019-07-26 16:26:41,604 [myid:] - INFO  [main:Environment@109] - Server environment:java.library.path=C:\Program Files\Java\jdk-12\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\EDZ\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\EDZ\bin;C:\Program Files (x86)\NetSarang\Xshell 6;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files\Git\cmd;D:\software\dex2jar-2.0;C:\Program Files\MySQL\MySQL Server 5.7\bin;C:\Program Files\Java\jdk-12\bin;D:\software\bin;D:\software\gradle-5.4.1-bin\gradle-5.4.1\bin;C:\Program Files\Redis;D:\software\apache-maven-3.6.0-bin\apache-maven-3.6.0\bin;C:\Program Files\nodejs;C:\Program Files (x86)\Yarn\bin;C:\Users\EDZ\AppData\Local\Yarn\bin;C:\Users\EDZ\AppData\Local\Microsoft\WindowsApps;D:\software\idea\IntelliJ IDEA 2019.1\bin;C:\Users\EDZ\AppData\Roaming\npm;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;.
+2019-07-26 16:26:41,604 [myid:] - INFO  [main:Environment@109] - Server environment:java.io.tmpdir=C:\Users\EDZ\AppData\Local\Temp\
+2019-07-26 16:26:41,604 [myid:] - INFO  [main:Environment@109] - Server environment:java.compiler=<NA>
+2019-07-26 16:26:41,604 [myid:] - INFO  [main:Environment@109] - Server environment:os.name=Windows 10
+2019-07-26 16:26:41,605 [myid:] - INFO  [main:Environment@109] - Server environment:os.arch=amd64
+2019-07-26 16:26:41,605 [myid:] - INFO  [main:Environment@109] - Server environment:os.version=10.0
+2019-07-26 16:26:41,605 [myid:] - INFO  [main:Environment@109] - Server environment:user.name=EDZ
+2019-07-26 16:26:41,605 [myid:] - INFO  [main:Environment@109] - Server environment:user.home=C:\Users\EDZ
+2019-07-26 16:26:41,605 [myid:] - INFO  [main:Environment@109] - Server environment:user.dir=D:\work4\dubbo-demo\zookeeper\apache-zookeeper-3.5.5-bin\bin
+2019-07-26 16:26:41,605 [myid:] - INFO  [main:Environment@109] - Server environment:os.memory.free=244MB
+2019-07-26 16:26:41,605 [myid:] - INFO  [main:Environment@109] - Server environment:os.memory.max=1000MB
+2019-07-26 16:26:41,605 [myid:] - INFO  [main:Environment@109] - Server environment:os.memory.total=254MB
+2019-07-26 16:26:41,606 [myid:] - INFO  [main:ZooKeeperServer@938] - minSessionTimeout set to 4000
+2019-07-26 16:26:41,606 [myid:] - INFO  [main:ZooKeeperServer@947] - maxSessionTimeout set to 40000
+2019-07-26 16:26:41,606 [myid:] - INFO  [main:ZooKeeperServer@166] - Created server with tickTime 2000 minSessionTimeout 4000 maxSessionTimeout 40000 datadir ..\dataDir\version-2 snapdir ..\dataDir\version-2
+2019-07-26 16:26:41,622 [myid:] - INFO  [main:Log@193] - Logging initialized @304ms to org.eclipse.jetty.util.log.Slf4jLog
+2019-07-26 16:26:41,662 [myid:] - WARN  [main:ContextHandler@1588] - o.e.j.s.ServletContextHandler@795cd85e{/,null,UNAVAILABLE} contextPath ends with /*
+2019-07-26 16:26:41,662 [myid:] - WARN  [main:ContextHandler@1599] - Empty contextPath
+2019-07-26 16:26:41,671 [myid:] - INFO  [main:Server@370] - jetty-9.4.17.v20190418; built: 2019-04-18T19:45:35.259Z; git: aa1c656c315c011c01e7b21aabb04066635b9f67; jvm 12+33
+2019-07-26 16:26:41,689 [myid:] - INFO  [main:DefaultSessionIdManager@365] - DefaultSessionIdManager workerName=node0
+2019-07-26 16:26:41,689 [myid:] - INFO  [main:DefaultSessionIdManager@370] - No SessionScavenger set, using defaults
+2019-07-26 16:26:41,693 [myid:] - INFO  [main:HouseKeeper@149] - node0 Scavenging every 600000ms
+2019-07-26 16:26:41,698 [myid:] - INFO  [main:ContextHandler@855] - Started o.e.j.s.ServletContextHandler@795cd85e{/,null,AVAILABLE}
+2019-07-26 16:26:41,711 [myid:] - INFO  [main:AbstractConnector@292] - Started ServerConnector@7adda9cc{HTTP/1.1,[http/1.1]}{0.0.0.0:8080}
+2019-07-26 16:26:41,711 [myid:] - INFO  [main:Server@410] - Started @397ms
+2019-07-26 16:26:41,711 [myid:] - INFO  [main:JettyAdminServer@112] - Started AdminServer on address 0.0.0.0, port 8080 and command URL /commands
+2019-07-26 16:26:41,714 [myid:] - INFO  [main:ServerCnxnFactory@135] - Using org.apache.zookeeper.server.NIOServerCnxnFactory as server connection factory
+2019-07-26 16:26:41,716 [myid:] - INFO  [main:NIOServerCnxnFactory@673] - Configuring NIO connection handler with 10s sessionless connection timeout, 2 selector thread(s), 24 worker threads, and 64 kB direct buffers.
+2019-07-26 16:26:41,718 [myid:] - INFO  [main:NIOServerCnxnFactory@686] - binding to port 0.0.0.0/0.0.0.0:2181
+2019-07-26 16:26:41,726 [myid:] - INFO  [main:ZKDatabase@117] - zookeeper.snapshotSizeFactor = 0.33
+2019-07-26 16:26:41,727 [myid:] - INFO  [main:FileTxnSnapLog@372] - Snapshotting: 0x0 to ..\dataDir\version-2\snapshot.0
+2019-07-26 16:26:41,729 [myid:] - INFO  [main:FileTxnSnapLog@372] - Snapshotting: 0x0 to ..\dataDir\version-2\snapshot.0
+2019-07-26 16:26:41,737 [myid:] - INFO  [main:ContainerManager@64] - Using checkIntervalMs=60000 maxPerMinute=10000
+2019-07-26 16:27:08,270 [myid:] - WARN  [NIOWorkerThread-1:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error 1195725856
+2019-07-26 16:27:08,408 [myid:] - WARN  [NIOWorkerThread-2:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error 1195725856
+2019-07-26 16:27:08,411 [myid:] - WARN  [NIOWorkerThread-3:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error 1195725856
+2019-07-26 16:27:13,428 [myid:] - WARN  [NIOWorkerThread-4:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error 1195725856
+2019-07-26 16:27:13,430 [myid:] - WARN  [NIOWorkerThread-5:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error 1195725856
+2019-07-26 16:28:02,617 [myid:] - INFO  [SyncThread:0:FileTxnLog@216] - Creating new log file: log.1
+2019-07-26 16:28:22,209 [myid:] - WARN  [NIOWorkerThread-10:NIOServerCnxn@370] - Exception causing close of session 0x10015a2c0ab0000: 远程主机强迫关闭了一个现有的连接。
+2019-07-26 16:28:42,194 [myid:] - WARN  [NIOWorkerThread-15:NIOServerCnxn@370] - Exception causing close of session 0x10015a2c0ab0001: 远程主机强迫关闭了一个现有的连接。
+2019-07-26 16:28:44,039 [myid:] - INFO  [SessionTracker:ZooKeeperServer@398] - Expiring session 0x10015a2c0ab0000, timeout of 30000ms exceeded
+2019-07-26 16:29:10,040 [myid:] - INFO  [SessionTracker:ZooKeeperServer@398] - Expiring session 0x10015a2c0ab0001, timeout of 30000ms exceeded
+2019-07-26 17:09:27,678 [myid:] - WARN  [NIOWorkerThread-17:NIOServerCnxn@370] - Exception causing close of session 0x10015a2c0ab0005: 远程主机强迫关闭了一个现有的连接。
+2019-07-26 17:09:27,678 [myid:] - WARN  [NIOWorkerThread-16:NIOServerCnxn@370] - Exception causing close of session 0x10015a2c0ab0004: 远程主机强迫关闭了一个现有的连接。
+2019-07-26 17:09:27,678 [myid:] - WARN  [NIOWorkerThread-18:NIOServerCnxn@370] - Exception causing close of session 0x10015a2c0ab0006: 远程主机强迫关闭了一个现有的连接。
+2019-07-26 17:10:02,039 [myid:] - INFO  [SessionTracker:ZooKeeperServer@398] - Expiring session 0x10015a2c0ab0004, timeout of 40000ms exceeded
+2019-07-26 17:10:04,040 [myid:] - INFO  [SessionTracker:ZooKeeperServer@398] - Expiring session 0x10015a2c0ab0005, timeout of 40000ms exceeded
+2019-07-26 17:10:06,039 [myid:] - INFO  [SessionTracker:ZooKeeperServer@398] - Expiring session 0x10015a2c0ab0006, timeout of 40000ms exceeded
+2019-07-26 17:13:23,962 [myid:] - WARN  [NIOWorkerThread-7:NIOServerCnxn@370] - Exception causing close of session 0x10015a2c0ab0009: 远程主机强迫关闭了一个现有的连接。
+2019-07-26 17:13:23,962 [myid:] - WARN  [NIOWorkerThread-9:NIOServerCnxn@370] - Exception causing close of session 0x10015a2c0ab000b: 远程主机强迫关闭了一个现有的连接。
+2019-07-26 17:13:23,962 [myid:] - WARN  [NIOWorkerThread-8:NIOServerCnxn@370] - Exception causing close of session 0x10015a2c0ab000a: 远程主机强迫关闭了一个现有的连接。
+2019-07-26 17:13:58,039 [myid:] - INFO  [SessionTracker:ZooKeeperServer@398] - Expiring session 0x10015a2c0ab0009, timeout of 40000ms exceeded
+2019-07-26 17:14:00,039 [myid:] - INFO  [SessionTracker:ZooKeeperServer@398] - Expiring session 0x10015a2c0ab000a, timeout of 40000ms exceeded
+2019-07-26 17:14:02,040 [myid:] - INFO  [SessionTracker:ZooKeeperServer@398] - Expiring session 0x10015a2c0ab000b, timeout of 40000ms exceeded
+2019-07-26 17:28:08,562 [myid:] - WARN  [NIOWorkerThread-18:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312
+2019-07-26 17:28:13,344 [myid:] - WARN  [NIOWorkerThread-19:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312
+2019-07-26 17:28:18,541 [myid:] - WARN  [NIOWorkerThread-22:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312
+2019-07-26 17:28:23,355 [myid:] - WARN  [NIOWorkerThread-23:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312
+2019-07-26 17:28:28,544 [myid:] - WARN  [NIOWorkerThread-2:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312
+2019-07-26 17:28:33,371 [myid:] - WARN  [NIOWorkerThread-3:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312
+2019-07-26 17:29:09,814 [myid:] - WARN  [NIOWorkerThread-2:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312
+2019-07-26 17:29:14,602 [myid:] - WARN  [NIOWorkerThread-3:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312
+2019-07-26 17:29:19,794 [myid:] - WARN  [NIOWorkerThread-6:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312
+2019-07-26 17:29:24,607 [myid:] - WARN  [NIOWorkerThread-8:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312
+2019-07-26 17:29:29,808 [myid:] - WARN  [NIOWorkerThread-12:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312
+2019-07-26 17:29:34,616 [myid:] - WARN  [NIOWorkerThread-15:NIOServerCnxn@370] - Exception causing close of session 0x0: Len error -625229312

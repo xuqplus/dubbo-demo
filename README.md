@@ -1,0 +1,12 @@
+```
+服务提供者
+dubbo-demo-provider
+服务调用者
+dubbo-demo-consumer
+通用接口
+dubbo-common
+管理台
+dubbo-admin-0.2.0
+注册中心
+zookeeper
+```
